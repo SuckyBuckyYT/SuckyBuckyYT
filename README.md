@@ -1,4 +1,4 @@
-# Hi there I am [SuckyBucky][youtube] I am a youtuber and a minecraft player, well i am mostly know for gaming and nuking servers, i am a professional minecraft player (have played for 7+ years now) and helper at some things. i have a discord server that you join lol
+## Hi there I am SuckyBucky I am a youtuber and a minecraft player, well i am mostly know for gaming and nuking servers, i am a professional minecraft player (have played for 7+ years now) and helper at some things. i have a discord server that you join lol
 
 
 ## I'm a youtuber and a pro minecraft player 😎
@@ -26,6 +26,6 @@
 
 ---
 
-# SuckyBuckys Github Stats
+## SuckyBuckys Github Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SuckyBuckyYT&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
