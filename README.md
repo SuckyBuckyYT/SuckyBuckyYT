@@ -1,7 +1,7 @@
 ## Hi there I am SuckyBucky I am a youtuber and a minecraft player, well i am mostly know for gaming and nuking servers, i am a professional minecraft player (have played for 7+ years now) and helper at some things. i have a discord server that you join lol
 
 
-## I'm a youtuber and a pro minecraft player 😎
+### I'm a youtuber and a pro minecraft player 😎
 
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning python and html, i will learn javascript in the future
@@ -19,12 +19,6 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/SuckyBuckyYT)
 [![website](./img/twitter-dark.svg)](https://twitter.com/SuckyBuckyYT)
-
-
-<br />
-<br />
-
----
 
 ## SuckyBuckys Github Stats
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SuckyBuckyYT&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
