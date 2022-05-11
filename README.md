@@ -1,7 +1,6 @@
 ## Hi there i am SuckyBucky
 
-- 🍧 I am SuckyBucky I am a youtuber and a minecraft player, well i am mostly know for gaming and nuking servers, i am a professional minecraft player (have played for 7+ years now) and helper at some things. i have a discord server that you join lol
-
+- 🍧 I am SuckyBucky I am a youtuber and a minecraft player, i am a professional minecraft player and i also have a discord server that you join lol
 - 🔭 I’m currently working on my website
 - 🌱 I’m currently learning python and html, i will learn javascript in the future
 - 💬 Ask me about some trouble your running in.
