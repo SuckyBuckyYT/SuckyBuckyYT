@@ -1,6 +1,6 @@
 ## sup bro
-## man you guys dont sub to me i hate u :(
-## if u did ty bro :3
+# man you guys dont sub to me i hate u :(
+# if u did ty bro :3
 
 
 ## SuckyBuckys Github Stats
