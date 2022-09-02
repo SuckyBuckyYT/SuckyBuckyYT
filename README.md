@@ -4,3 +4,5 @@
 </p>
 <p align="center">
   <strong><a href="https://youtube.com/suckybucky">Sub Man!</a></strong>
+<h1>Discord: SuckyBucky#8159</h1>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-2/877272018486198322.png" height="1000px"/></a></p>
